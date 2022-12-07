@@ -1,4 +1,4 @@
-@charset "UTF-8";/*!
+@charset "UTF-8";.hover{transition-property:transform,filter;transition-duration:.2s;transition-timing-function:ease-in-out}@media (hover:hover){.hover:hover{transform:scale(1.1);filter:drop-shadow(3px 5px 10px rgba(15,12,12,.5))}}/*!
 * Bootstrap  v5.2.3 (https://getbootstrap.com/)
 * Copyright 2011-2022 The Bootstrap Authors
 * Copyright 2011-2022 Twitter, Inc.
