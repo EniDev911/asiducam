@@ -1,50 +1,59 @@
 [
   {
-    "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
-    "id": "P001",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
-    "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
-    "name": "napolitana",
-    "price": 5950
+    "id": "S001",
+    "title": "Camión plataforma",
+    "desc": "Transporte de carga general de todo tipo, sin protección o con carpas.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/01.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/01b.png"
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
-    "id": "P002",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
-    "ingredients": ["mozzarella", "tomates", "jamón", "choricillo"],
-    "name": "española",
-    "price": 7250
+    "id": "S002",
+    "title": "Camión Tolva",
+    "desc": "Transporte de materiales a granel, incluyendo movimientos de tierra.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/02.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/02b.png"
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
-    "id": "P003",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3",
-    "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
-    "name": "salame",
-    "price": 5990
+    "id": "S003",
+    "title": "Tractor convencional liviano, 4x2",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/03.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/03b.png"
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
-    "id": "P004",
+    "id": "S004",
+    "title": "Tractor convencional cabina extendida, 4x2",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras, con capacidad de instalar litera para conducir",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/04.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/04b.png"
+  },
+  {
+    "id": "S005",
+    "title": "Tractor frontal 6x2",
+    "desc": "Transporte de todo tipo de carga, mayor capacidad de carga debido a los tres ejes.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/05.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/05.png"
+  },
+  {
+    "id": "S006",
+    "title": "Tractor frontal cabina extendida alta, 6x4",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras a larga distancias, con capacidad de instalar litera para conductor y altura suficiente para permanecer de pie.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/06.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/06b.png"
+  },
+  {
+    "id": "S007",
+    "title": "Tractor frontal 6x6",
+    "desc": "Aplicaciones de todo terreno, minería, operaciones forestales.",
     "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
-    "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
-    "name": "cuatro estaciones",
-    "price": 9590
-  },
-  {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
-    "id": "P005",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
-    "ingredients": ["mozzarella", "tomates cherry", "bacon", "orégano"],
-    "name": "bacon",
-    "price": 6450
-  },
-  {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
-    "id": "P006",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
-    "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
     "name": "pollo picante",
     "price": 8500
-  }
+  },
+  {
+    "id": "S008",
+    "title": "Semirremolque plataforma plana",
+    "desc": "Carga general sin protección al clima. Ampliamente usado en muchas aplicaciones.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/08.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/08b.png"
+  } 
 ]
