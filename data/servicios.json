@@ -1,0 +1,96 @@
+{
+  "nombres": [
+    "Re pesaje en Batea", 
+    "Embarque concentrado en rampla plana",
+    "Desembarque Trigo en Batea",
+    "Movimientos internos en rampla plana",
+    "Algunos servicios especiales de movimiento de maquinarias"],
+
+  "servicios" : [
+  {
+    "id": "S001",
+    "title": "Camión plataforma",
+    "desc": "Transporte de carga general de todo tipo, sin protección o con carpas.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/01b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/01.png"
+  },
+  {
+    "id": "S002",
+    "title": "Camión Tolva",
+    "desc": "Transporte de materiales a granel, incluyendo movimientos de tierra.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/02b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/02.png"
+  },
+  {
+    "id": "S003",
+    "title": "Tractor convencional liviano, 4x2",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/03b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/03.png"
+  },
+  {
+    "id": "S004",
+    "title": "Tractor convencional cabina extendida, 4x2",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras, con capacidad de instalar litera para conducir.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/04b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/04.png"
+  },
+  {
+    "id": "S005",
+    "title": "Tractor frontal 6x2",
+    "desc": "Transporte de todo tipo de carga, mayor capacidad de carga debido a los tres ejes.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/05b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/05.png"
+  },
+  {
+    "id": "S006",
+    "title": "Tractor frontal cabina extendida alta, 6x4",
+    "desc": "Transporte de todo tipo de cargas sobre carreteras a larga distancias, con capacidad de instalar litera para conductor y altura suficiente para permanecer de pie.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/06b.png",
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/06.png"
+  },
+  {
+    "id": "S007",
+    "title": "Tractor frontal 6x6",
+    "desc": "Aplicaciones de todo terreno, minería, operaciones forestales.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/07b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/07.png"  
+
+  },
+  {
+    "id": "S008",
+    "title": "Semirremolque plataforma plana",
+    "desc": "Carga general sin protección al clima. Ampliamente usado en muchas aplicaciones.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/08b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/08.png"
+  },
+  {
+    "id": "S009",
+    "title": "Semirremolque plataforma extensible",
+    "desc": "Transporte de cargas especialmente largas. La longitud del semirremolque se adapta a la carga.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/09b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/09.png"
+  },
+  {
+    "id": "S010",
+    "title": "Semirremolque plataforma baja",
+    "desc": "Transporte de equipamiento de construcción y soporte industrial, taler como dozers, grúa, etc.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/10b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/10.png"
+  },
+  {
+    "id": "S011",
+    "title": "Semirremolque portacontenedores",
+    "desc": "Transporte de contenedores sin exceso de peso debido a la plataforma, que no es necesaria para esta operación.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/11b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/11.png"
+  },
+  {
+    "id": "S012",
+    "title": "Semirremolque tolva de volteo trasero granelero",
+    "desc": "Transporte de graneles solidos.",
+    "img": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/12b.png",  
+    "img2": "https://raw.githubusercontent.com/EniDev911/assets/main/png/asiducam/servicios/12.png"
+  } 
+]
+}
